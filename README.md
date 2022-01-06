@@ -9,7 +9,7 @@ This software can also Save translation to a text file. This is done with the he
 
 # HOW TO USE
 - [Watch Demo](https://drive.google.com/file/d/1lRYs_1CSeEHPctPkyfyqKbwKdWiHDtE3/view?usp=sharing)
-- Internet Connection is required to use this app! OR you will get an [error](https://drive.google.com/file/d/19auxgNl35u2OIHcoKWrpRUtfndjRhHrS/view?usp=sharing)
+- **Internet Connection is required to use this app!** OR you will get an [error](https://drive.google.com/file/d/19auxgNl35u2OIHcoKWrpRUtfndjRhHrS/view?usp=sharing) .
 - 1st plug-in mic, then open app.
 - Select Mic from the dropdown box.
 - Click green coloured mic button & start speaking in English.
@@ -47,26 +47,26 @@ This software can also Save translation to a text file. This is done with the he
   - Always 1st plug-in mic, then the open app.
 
 # **PRIVACY**
-- This application doesn't gathers any data about you, nor sends it to its developer.
-- Developer doesn't gather any data about its user.
-- This application requires Internet !
+- **This application doesn't gathers any data about you, nor sends it to its developer.**
+- **Developer doesn't gather any data about its user.**
+- **This application requires Internet !**
 - Speech to text & Text translation is done with the help of Google Translate API.
 - If you are concerned, then use VPN.
 - If you don't trust this app please don't use it then.
 
 # **CREDITS**
 FONT :
-- [Merriweather-Sans](https://github.com/SorkinType/Merriweather-Sans)
-- Foundry: [Sorkin Type Co](http://sorkintype.com/)
+- **[Merriweather-Sans](https://github.com/SorkinType/Merriweather-Sans)**
+- **Foundry: [Sorkin Type Co](http://sorkintype.com/)**
 
 - **License : Open Font License.** These fonts are licensed under the Open Font License. They can be used freely in product & project print or digital, commercial or otherwise. 
 
 **-Thank You !**
 
 ICONS :
-App & App Icon Made by : [ssbaraskar99](https://github.com/ssbaraskar99)
-
-- Bootstrap Icons - Free, high quality, open source icon library with over 1,500 icons. 
+- App & App Icon Made by : [ssbaraskar99](https://github.com/ssbaraskar99)
+- Mic Start, Mic Stop, Save Icon, Clear Icon & Translate Icon are used from Bootstrap Icons.
+- **Bootstrap Icons - Free, high quality, open source icon library with over 1,500 icons.**
 - [Bootstrap Icons Official Website](https://icons.getbootstrap.com)
 - [Bootstrap Icons Github Page](https://github.com/twbs/icons)
 
