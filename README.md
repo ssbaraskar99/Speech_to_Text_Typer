@@ -4,6 +4,13 @@ This software is designed to recognize speech, translate &amp; type it for you.
 # **DESCRIPTION**
 This software can also Save translation to a text file. This is done with the help of Google translate. This app can also type recognized or Translated text wherever you place cursor. Microphone is used to take English text, & further can be translated to specific languages. Text Translator is also provided, where you can paste text whose language will be automatically recognized & translated to desired language.
 
+# SCREENSHOTS
+
+![1](https://github.com/ssbaraskar99/Speech_to_Text_Typer/blob/main/Screenshots/1.PNG?raw=true)
+![2](https://github.com/ssbaraskar99/Speech_to_Text_Typer/blob/main/Screenshots/2.PNG?raw=true)
+![3](https://github.com/ssbaraskar99/Speech_to_Text_Typer/blob/main/Screenshots/3.PNG?raw=true)
+![4](https://github.com/ssbaraskar99/Speech_to_Text_Typer/blob/main/Screenshots/4.PNG?raw=true)
+
 # HOW TO INSTALL
  - **For Windows ,** please download setup file from Releases.
 
