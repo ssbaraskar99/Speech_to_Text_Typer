@@ -79,3 +79,4 @@ ICONS :
 - **Don't modify code in any way.**
 - **Don't sell this app.**
 - **Merriweather Sans font used, is free to use & it comes under Open Font License.**
+
